@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi , I'm Michel
 
-<!--
-**Code-png/Code-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Autonomous Java Developer with 3+ years of work experience in developing scalable software
+solutions.
 
-Here are some ideas to get you started:
+👨🏻‍💻 Proficient in Spring Boot, Hibernate, RESTful APIs and Microservices
+architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏻 Demonstrated ability to integrate and work with front-end technologies such
+as HTML, CSS, JavaScript and Angular.
+
+📊 Skilled in database management with PostgreSQL,
+Oracle and MySQL.
+
+📦 Familiar with Docker containerization, and deployment on the cloud.
+
+
+👨🏻‍🏫 Strong problem-solver with a track record of delivering high-quality
+code in collaborative, agile team settings.
